@@ -1,0 +1,5 @@
+*.hex
+*.ota
+Firmware/attributes.txt
+Firmware/variable_memory_usage.txt
+
